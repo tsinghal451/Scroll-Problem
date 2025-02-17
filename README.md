@@ -12,7 +12,7 @@ I'm facing an issue with GSAP ScrollTrigger in my project. I have an animation w
 ## Screenshot
 Below is a screenshot of the issue:
 
-![GSAP Scroll Issue](Screenshot-2025-02-17-105543.png)
+![GSAP Scroll Issue](Screenshot 2025-02-17 105543.png)
 
 Let me know if you have any suggestions to fix this!
 
