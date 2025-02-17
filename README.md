@@ -10,9 +10,7 @@ I'm facing an issue with GSAP ScrollTrigger in my project. I have an animation w
 - Adjusting `end: "+=1500"` to a smaller value.
 
 ## Screenshot
-Below is a screenshot of the issue:
-
-![GSAP Scroll Issue](Screenshot 2025-02-17 105543.png)
+Attach a screenshot of the issue in repo.
 
 Let me know if you have any suggestions to fix this!
 
